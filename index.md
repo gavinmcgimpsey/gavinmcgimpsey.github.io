@@ -11,7 +11,7 @@ I strive for excellence. I was ranked the [#1 rookie bridge player in North Amer
 ### Interests
 
 * Wildnerness [backpacking](/hiking) &mdash; I spent a few weeks solo thru-hiking the [Benton MacKaye Trail](http://www.bmta.org/) in the southeastern US.
-* [Bridge](/bridge) &mdash; mostly on [BBO](https://www.bridgebase.com/) these days.
+* Bridge &mdash; mostly on [BBO](https://www.bridgebase.com/) these days.
 * Sailing &mdash; always willing to crew.
 * [Baseball](/baseball) &mdash; I'm hoping to visit every MLB stadium, and I love keeping score.
 * Cooking and cocktails &mdash; get in touch if you'd like an invitation to my next potluck!
