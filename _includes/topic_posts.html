@@ -1,8 +1,8 @@
-## Posts about {{ page.title | capitalize }}
+## Posts about {{ page.topic | capitalize }}
 
 <ul class="post-list">
 {% for post in site.posts %}
-{% if post.tags contains page.title %}
+{% if post.tags contains page.topic %}
 <li>
   <h3>
     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
