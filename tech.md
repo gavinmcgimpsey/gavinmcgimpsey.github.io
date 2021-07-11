@@ -2,6 +2,7 @@
 layout: page
 title: Tech
 topic: tech
+permalink: /tech
 ---
 
 I've been a hobbyist programmer since I was a kid—my first few languages were Logo, HyperCard, and Basic. Now I mostly use Ruby and Racket.

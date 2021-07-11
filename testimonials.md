@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Testimonials
-permalink: /testimonials/
+permalink: /testimonials
 ---
 
 ### Leadership

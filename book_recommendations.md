@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Books You Should Read
-permalink: /book-recommendations/
+permalink: /book-recommendations
 ---
 
 ### Business and Management
