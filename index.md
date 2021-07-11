@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<div class="home">
-
 <img class="portrait" src="/images/gavin.png" alt="Portrait photo of Gavin.">
 
 Hi, I'm Gavin! I'm a law student at [Washington University in St. Louis](https://law.wustl.edu/).
@@ -19,5 +17,3 @@ I strive for excellence. I was ranked the [#1 rookie bridge player in North Amer
   <!---
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
   --->
-
-</div>
