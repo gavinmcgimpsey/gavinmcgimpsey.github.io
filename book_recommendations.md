@@ -7,7 +7,7 @@ main: true
 
 <img class="portrait" src="/images/Will-to-Change-Cover.jpg" alt="Gavin McGimpsey's top book recommendation: The Will to Change, by bell hooks">
 
-If I had to pick one book for everyone to read, it would be this one. *The Will to Change: Men, Masculinity, and Love*, by bell hooks, is revelatory and soul-affirming. I care about creating a healthier image of masculinity for myself and others—a work in progress, of course, but far further along thanks to this book.
+If I had to pick one book for everyone to read, it would be this one. ***The Will to Change: Men, Masculinity, and Love***, by bell hooks, is revelatory and soul-affirming. I care about creating a healthier image of masculinity for myself and others—a work in progress, of course, but far further along thanks to this book.
 
 ### Business and Management
 + **An Everyone Culture: Becoming a Deliberately Developmental Organization** &mdash; Robert Kegan and Lisa Laskow Lahey
