@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Getting Unstuck
+tags:
+  - "tech"
 ---
 
 You're learning, which means you're going to be confused or stuck, and you might need help moving forward. Great! If you're not in that position every now and then, you're even more stuck than you think.

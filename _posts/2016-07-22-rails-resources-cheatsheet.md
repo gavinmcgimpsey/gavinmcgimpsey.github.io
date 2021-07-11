@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "Rails resources Cheat Sheet"
+tags:
+  - "tech"
+  - "ruby"
+  - "rails"
 ---
 
 There are seven common actions that Rails expects to be executed on a type of web resource:

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Basic SQL Queries: Three Questions"
+tags:
+  - "tech"
+  - "sql"
 ---
 
 I've found it helpful when building simple SQL queries to organize my thinking around three questions:

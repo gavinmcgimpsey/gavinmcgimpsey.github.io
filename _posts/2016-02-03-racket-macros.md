@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Macros in Racket: an Outline"
+tags:
+  - "tech"
+  - "racket"
 ---
 
 <div class="toc" markdown="1">
