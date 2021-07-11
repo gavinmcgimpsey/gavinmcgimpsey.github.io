@@ -241,9 +241,6 @@ nav.contact-links {
     .site-header .wrapper {
     }
 
-    nav.contact-links {
-        padding-top: 80px;
-    }
 }
 
 @media print, screen and (max-width: 720px) {
