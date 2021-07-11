@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "tech"
+topic: "tech"
 ---
 
 <h1 class="page-heading">Tech</h1>
