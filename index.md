@@ -10,9 +10,9 @@ I strive for excellence. I was ranked the [#1 rookie bridge player in North Amer
 
 ### Interests
 
-* Wildnerness Backpacking &mdash; I spent a few weeks solo thru-hiking the [Benton MacKaye Trail](http://www.bmta.org/) in the southeastern US.  
-* Cooking and cocktails &mdash; get in touch if you'd like an invitation to my next potluck!  
+* Wildnerness Backpacking &mdash; I spent a few weeks solo thru-hiking the [Benton MacKaye Trail](http://www.bmta.org/) in the southeastern US.
 * Sailing &mdash; always willing to crew.
+* Cooking and cocktails &mdash; get in touch if you'd like an invitation to my next potluck!
 
   <!---
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
