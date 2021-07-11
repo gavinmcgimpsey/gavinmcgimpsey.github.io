@@ -2,6 +2,7 @@
 layout: page
 title: Books You Should Read
 permalink: /book-recommendations
+main: true
 ---
 
 ### Business and Management

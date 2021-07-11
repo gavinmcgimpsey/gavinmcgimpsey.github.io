@@ -2,6 +2,7 @@
 layout: page
 title: Testimonials
 permalink: /testimonials
+main: true
 ---
 
 ### Leadership
