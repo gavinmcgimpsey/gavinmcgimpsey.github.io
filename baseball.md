@@ -18,6 +18,7 @@ Growing up in Idaho without any major league sports, it wasn't until I was servi
 |   | <img src="/images/baseball/tex.png" />  | Texas Rangers       |   |  <img src="/images/baseball/kcr.png" /> | Kansas City Royals |   | <img src="/images/baseball/tor.png" />  | Toronto Blue Jays |
 |   |  <img src="/images/baseball/hou.png" /> | Houston Astros      |   | <img src="/images/baseball/cle.png" />  | Cleveland          |   | <img src="/images/baseball/nyy.png" />  | New York Yankees  |
 
+<br />
 
 |   |   | NL West              |   |   | NL Central          |   |   | NL East               |
 |---|---|----------------------|---|---|---------------------|---|---|-----------------------|
