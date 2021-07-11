@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="portrait" src="/images/gavin.png" alt="Portrait photo of Gavin.">
+<img class="portrait" src="/images/gavin.png" alt="Portrait photo of Gavin McGimpsey.">
 
 Hi, I'm Gavin! I'm a law student at [Washington University in St. Louis](https://law.wustl.edu/).
 
