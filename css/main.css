@@ -198,6 +198,7 @@ footer {
 
 nav.contact-links {
     padding-top: 80px;
+    padding-bottom:  20px;
 }
 
 @media print, screen and (max-width: 960px) {
