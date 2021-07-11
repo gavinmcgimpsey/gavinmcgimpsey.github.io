@@ -1,0 +1,24 @@
+I"<p><img class="portrait" src="/images/gavin.png" alt="Portrait photo of Gavin." /></p>
+
+<p>Hi, I’m Gavin! I’m a law student at <a href="https://law.wustl.edu/">Washington University in St. Louis</a>.</p>
+
+<p>I strive for excellence. I was ranked the <a href="https://web3.acbl.org/mpraces/?year=2012&amp;race=MMA">#1 rookie bridge player in North America</a> in 2012. After earning a perfect score on the Law School Admissions Test, I taught hundreds of others to acheive their best — to <a href="/testimonials/">rave reviews</a>. Now, I’m excited to be looking towards the start of my legal career.</p>
+
+<h3 id="projects">Projects</h3>
+
+<h4 id="russell">Russell</h4>
+
+<p>I spoke at RubyConf on logic programming, and wrote a demo framework based on <a href="http://scheme2011.ucombinator.org/papers/Alvis2011.pdf">cKanren</a> [PDF].</p>
+
+<div style="position:relative;height:0;margin-top:25px;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/f5Bi6_GOIB8?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen=""></iframe></div>
+
+<p>You can check out my code <a href="https://gitlab.com/gavinmcg/russell">here</a>.</p>
+
+<h3 id="interests">Interests</h3>
+
+<ul>
+  <li>Wildnerness Backpacking — I spent a few weeks solo thru-hiking the <a href="http://www.bmta.org/">Benton MacKaye Trail</a> in the southeastern US</li>
+  <li>Cooking and cocktails — get in touch if you’d like an invitation to my next potluck!</li>
+  <li>Sailing — always willing to crew</li>
+</ul>
+:ET

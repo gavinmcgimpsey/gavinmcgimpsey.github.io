@@ -1,0 +1,27 @@
+<header class="site-header">
+
+    <div class="wrapper">
+        <a href="{{ site.baseurl }}/">
+            <img alt="Lightbulb Logo" src="/images/logo.png" class="logo">
+            <span class="site-title">{{ site.title }}</span>
+        </a>
+
+        <nav class="site-nav">
+            <div class="trigger">
+                {% for my_page in site.pages %}
+                {% if my_page.title %}
+                <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+                <br>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </nav>
+        <nav class="contact-links">
+            <a href="mailto:dev@gavinmcg.com"><i class="fa fa-envelope" aria-hidden="true"></i>Email</a>
+            <a href="https://twitter.com/GavinMcGimpsey"><i class="fa fa-twitter" aria-hidden="true"></i>Twitter</a>
+            <a href="https://gavinmcg.gitlab.com"><i class="fa fa-gitlab" aria-hidden="true"></i>Gitlab</a>
+        </nav>
+
+    </div>
+
+</header>
