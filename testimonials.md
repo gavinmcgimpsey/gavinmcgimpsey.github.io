@@ -12,6 +12,8 @@ permalink: /testimonials
 "Gavin is an incredible individual. He is highly competent in many areas, and learns new skills quickly. I was most impressed by his sense of ambition and initiative; **Gavin understands what needs to get done, effectively plans, and then executes with efficiency and authority**. He was **a great, conscientious teammate** and thrives in competitive environments. Gavin will make an excellent addition to any team or organization."  
 -- Phil Schwartz, AmeriCorps NCCC team leader
 
+<img src="/images/Instructor-Gavin-McGimpsey.jpg" alt="Photo of Gavin McGimpsey teaching.">
+
 ### Teaching
 
 "Thanks again for the class. You are a fantastic instructor. I feel like **you have put me in a position to secure my own destiny**."  
