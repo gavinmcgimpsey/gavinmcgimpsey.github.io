@@ -346,9 +346,13 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
     content: "";
 }
 
-ul.post-list li h2 {
+ul.post-list li {
     margin-top: 10px;
     margin-bottom: 30px;
+}
+
+.post-meta {
+    font-size: small;
 }
 
 .portrait {
