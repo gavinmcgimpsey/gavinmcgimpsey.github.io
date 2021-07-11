@@ -236,6 +236,10 @@ footer {
 
     .site-header .wrapper {
     }
+
+    nav.contact-links {
+        padding-top: 80px;
+    }
 }
 
 @media print, screen and (max-width: 720px) {
@@ -254,6 +258,10 @@ footer {
     pre, code {
         word-wrap:normal;
     }
+
+    nav.contact-links {
+        padding-top: 20px;
+    }
 }
 
 @media print, screen and (max-width: 480px) {
@@ -267,6 +275,10 @@ footer {
 
     header li, header ul li + li + li {
         width:33%;
+    }
+
+    nav.contact-links {
+        padding-top: 20px;
     }
 }
 
@@ -364,10 +376,6 @@ ul.post-list li h3 {
 
 i.fa {
     padding-right: 5px;
-}
-
-nav.contact-links {
-    padding-top: 80px;
 }
 
 nav.contact-links a {
