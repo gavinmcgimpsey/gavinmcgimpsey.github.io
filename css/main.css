@@ -265,8 +265,8 @@ nav.contact-links {
         word-wrap:normal;
     }
 
-    nav.contact-links {
-        padding-top: 20px;
+    table, thead, tbody, th, td, tr { 
+        display: block; 
     }
 }
 
@@ -281,10 +281,6 @@ nav.contact-links {
 
     header li, header ul li + li + li {
         width:33%;
-    }
-
-    nav.contact-links {
-        padding-top: 20px;
     }
 }
 
