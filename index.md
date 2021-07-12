@@ -6,7 +6,7 @@ layout: default
 
 Hi, I'm Gavin! I'm a law student at [Washington University in St. Louis](https://law.wustl.edu/).
 
-I strive for excellence. I was ranked the [#1 rookie bridge player in North America](https://web3.acbl.org/mpraces/?year=2012&race=MMA) in 2012. After earning a perfect score on the Law School Admissions Test, I taught hundreds of others to acheive their best &mdash; to [rave reviews](/testimonials). I've also served in [AmeriCorps](/americorps) and as an [EMT](/emt). Now, I'm excited to be looking towards the start of my legal career.
+I strive for excellence. I was ranked the [#1 rookie bridge player in North America](https://web3.acbl.org/mpraces/?year=2012&race=MMA) in 2012. After earning a perfect score on the Law School Admissions Test, I taught hundreds of others to acheive their best &mdash; to [rave reviews](/testimonials). I've also served in [AmeriCorps](/americorps) and as an [EMT](/emt). Now, I'm excited to be looking toward the start of my legal career.
 
 ### Interests
 
