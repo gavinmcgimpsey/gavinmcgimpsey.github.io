@@ -264,10 +264,6 @@ nav.contact-links {
     pre, code {
         word-wrap:normal;
     }
-
-    table, thead, tbody, th, td, tr { 
-        display: block; 
-    }
 }
 
 @media print, screen and (max-width: 480px) {
@@ -330,8 +326,12 @@ div.toc {
     margin-bottom: 20px;
 }
 
-div.toc ul {
+div.toc ul, div.toc ol {
     margin-bottom: 0px;
+}
+
+div.toc ul li ul li {
+    margin-left: 10px;
 }
 
 div.toc a {
