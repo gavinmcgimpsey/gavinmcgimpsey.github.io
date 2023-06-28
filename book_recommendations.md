@@ -15,12 +15,12 @@ If I had to pick one book for everyone to read, it would be this one. **The Will
 
 ### Life, Mind, and Spirit
 + **Noble Strategy** &mdash; Thanissaro Bhikkhu
-+ **Mind Illuminated** &mdash; Culadasa
 + **A History of God** &mdash; Karen Armstrong
 + **Meditations** &mdash; Marcus Aurelius
 
 ### Cooking
 + **The Food Lab** &mdash; J. Kenji Lopez-Alt
++ **Salt Fat Acid Heat &mdash; Samin Nosrat
 
 ### Literature
 + **The Amazing Adventures of Kavalier and Clay** &mdash; Michael Chabon

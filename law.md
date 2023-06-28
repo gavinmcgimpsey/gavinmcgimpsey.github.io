@@ -5,10 +5,10 @@ permalink: /law
 main: true
 ---
 
-I am a second-year law student at Washington University in St. Louis. I have a range of interests focused on litigation and trial practice.
+<img src="/images/Gavin-McGimpsey-Graduation.jpg" alt="Gavin McGimpsey and another student dressed in academic regalia and holding processional banners.">
 
-Following my first year, I was a summer associate at [Fennemore](https://fennemorelaw.com), one of the oldest and best-established firms in Phoenix.
+I recently received my JD, *summa cum laude*, from Washington University in St. Louis, where I was a member of the *Washington University Law Review* and the National Moot Court team.
 
-<img src="/images/Welcome-Gavin-McGimpsey-to-Fennemore.jpg" alt="Welcome banner for Gavin McGimpsey at Fenenmore" />
+I have been a summer associate at [Fennemore](https://fennemorelaw.com), [Kirkland & Ellis](https://kirkland.com), [Munger, Tolles & Olson](https://mto.com), and [Susman Godfrey](https://www.susmangodfrey.com).
 
 Prior to law school I worked as a file clerk at [Schmidt McElwee & Gordon](https://www.azfamilylaw.com/), Phoenix's premier family law firm.
