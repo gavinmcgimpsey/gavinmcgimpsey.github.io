@@ -20,9 +20,12 @@ If I had to pick one book for everyone to read, it would be this one. **The Will
 
 ### Cooking
 + **The Food Lab** &mdash; J. Kenji Lopez-Alt
-+ **Salt Fat Acid Heat &mdash; Samin Nosrat
++ **Salt Fat Acid Heat** &mdash; Samin Nosrat
 
 ### Literature
 + **The Amazing Adventures of Kavalier and Clay** &mdash; Michael Chabon
++ **The Fifth Season** &mdash; N.K. Jemisin
 + **The Adventures and Misadventures of Maqroll** &mdash; Álvaro Mutis
++ **The Three Body Problem** &mdash; Cixin Liu
 + **Invisible Cities** &mdash; Italo Calvino
++ **Perdido Street Station** &mdash; China Miéville
