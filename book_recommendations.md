@@ -22,7 +22,7 @@ If I had to pick one book for everyone to read, it would be this one. **The Will
 + **The Food Lab** &mdash; J. Kenji Lopez-Alt
 + **Salt Fat Acid Heat** &mdash; Samin Nosrat
 
-### Literature
+### Fiction
 + **The Amazing Adventures of Kavalier and Clay** &mdash; Michael Chabon
 + **The Fifth Season** &mdash; N.K. Jemisin
 + **The Adventures and Misadventures of Maqroll** &mdash; Álvaro Mutis
